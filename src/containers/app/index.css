@@ -1,0 +1,18 @@
+.page {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.page .nav {
+  background: #333;
+  padding: 6px;
+}
+
+.page .nav .link {
+  color: #e1e1e1;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.css.map */
